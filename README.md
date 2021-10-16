@@ -34,7 +34,7 @@
 
 <h3 align="left">Personal Projects:</h3>
 
-- <a href="https://github.com/saitejakalepu/Realtime-Expense-Tracker-Redux" >- **Food Delivery App - Front End**</a>
+- <a href="https://github.com/saitejakalepu/Realtime-Expense-Tracker-Redux" >**Food Delivery App - Front End**</a>
 
 - **Food Delivery App - Front End**
 - **Pizza Order UI**
