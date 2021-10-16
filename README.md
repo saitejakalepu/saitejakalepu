@@ -34,7 +34,7 @@
 
 <h3 align="left">Personal Projects:</h3>
 
-- Food Delivery Application  **React JS**
+- Food Delivery Application  **Food Delivery App - Front End**
 
 - Pizza order UI ****
 
