@@ -34,6 +34,12 @@
 
 <h3 align="left">Personal Projects:</h3>
 
+- 🔭 Food Delivery Application  **React JS**
+
+- 📫 How to reach me **saiteja.kalepu@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny**
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejakalepu&show_icons=true&locale=en&layout=compact" alt="saitejakalepu" /></p>
 
