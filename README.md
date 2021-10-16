@@ -12,11 +12,6 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-- I'm looking forward to learn great things.
-- There are already many answers, I am looking for questions.
-- I am aligned towards an entrepreneurial journey.
-- Always looking for collaborators.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
