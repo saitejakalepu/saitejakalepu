@@ -34,11 +34,18 @@
 
 <h3 align="left">Personal Projects:</h3>
 
-- Food Delivery Application  **Food Delivery App - Front End**
+- **Food Delivery App - Front End**
+- **Pizza Order UI**
+- **Real Time Expense Tracker**
+- **Intro to Breaking Bad Characters**
+- **To Do List - Redux **
+- **Netflix Clone**
+- **Travel Website**
+- **Covid 19 Dashboard**
+- **Iphone Calculator**
+- **To Do List **
 
-- Pizza order UI ****
 
-- ⚡ Fun fact **I think I am Funny**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejakalepu&show_icons=true&locale=en&layout=compact" alt="saitejakalepu" /></p>
