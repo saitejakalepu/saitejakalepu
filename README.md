@@ -12,6 +12,12 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
+- I'm looking forward to learn great things.
+- There are already many answers, I am looking for questions.
+- I am aligned towards an entrepreneurial journey.
+- Always looking for collaborators.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ursssbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ursssbabu" height="30" width="40" /></a>
