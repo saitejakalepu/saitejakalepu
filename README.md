@@ -38,12 +38,12 @@
 - **Pizza Order UI**
 - **Real Time Expense Tracker**
 - **Intro to Breaking Bad Characters**
-- **To Do List - Redux **
+- **To Do List with Redux**
 - **Netflix Clone**
 - **Travel Website**
 - **Covid 19 Dashboard**
 - **Iphone Calculator**
-- **To Do List **
+- **To Do List**
 
 
 
