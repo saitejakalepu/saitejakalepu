@@ -34,9 +34,9 @@
 
 <h3 align="left">Personal Projects:</h3>
 
-- 🔭 Food Delivery Application  **React JS**
+- Food Delivery Application  **React JS**
 
-- 📫 How to reach me **saiteja.kalepu@gmail.com**
+- Pizza order UI ****
 
 - ⚡ Fun fact **I think I am Funny**
 
