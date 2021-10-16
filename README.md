@@ -8,9 +8,6 @@
 
 - 🔭 I’m currently working on **React JS**
 
-- 📄 Know about my experiences [http://wsehyd-actestn/SCard_TRCorrection/](http://wsehyd-actestn/SCard_TRCorrection/)
-- 👨‍💻 All of my projects are available at [http://wsehyd-actestn/SCard_TRCorrection/](http://wsehyd-actestn/SCard_TRCorrection/)
-
 - 📫 How to reach me **saiteja.kalepu@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
