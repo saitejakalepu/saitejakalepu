@@ -30,6 +30,11 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp; </p>
 
+
+
+<h3 align="left">Personal Projects:</h3>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejakalepu&show_icons=true&locale=en&layout=compact" alt="saitejakalepu" /></p>
 
 
