@@ -34,21 +34,17 @@
 
 <h3 align="left">Personal Projects:</h3>
 
-- <a href="https://github.com/saitejakalepu/Realtime-Expense-Tracker-Redux" >**Food Delivery App - Front End**</a>
-
-- **Food Delivery App - Front End**
-- **Pizza Order UI**
-- **Real Time Expense Tracker**
-- **Intro to Breaking Bad Characters**
-- **To Do List with Redux**
-- **Netflix Clone**
-- **Travel Website**
-- **Tic Tac Toe Game**
-- **Covid 19 Dashboard**
-- **Iphone Calculator**
-- **To Do List**
-
-
+- <a href="https://github.com/saitejakalepu/Food-Delivery-App-FrontEnd" >**Food Delivery App - Front End**</a>
+- <a href="https://github.com/saitejakalepu/Pizza-order-UI" >**Pizza Order UI**</a>
+- <a href="https://github.com/saitejakalepu/Realtime-Expense-Tracker-Redux" >**Real Time Expense Tracker**</a>
+- <a href="https://github.com/saitejakalepu/Breaking-Bad" >**Intro to Breaking Bad Characters**</a>
+- <a href="https://github.com/saitejakalepu/TodoList-Redux" >**To Do List with Redux**</a>
+- <a href="https://github.com/saitejakalepu/netflix-clone" >**Netflix Clone**</a>
+- <a href="https://github.com/saitejakalepu/TravelWebsite" >**Travel Website**</a>
+- <a href="https://github.com/saitejakalepu/Tic-Tac-Toe_Game" >**Tic Tac Toe Game**</a>
+- <a href="https://github.com/saitejakalepu/Covid19-dashboard" >**Covid 19 Dashboard**</a>
+- <a href="https://github.com/saitejakalepu/Iphone-Calculator-React-App" >**Iphone Calculator**</a>
+- <a href="https://github.com/saitejakalepu/ToDoList-React-App" >**To Do List**</a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejakalepu&show_icons=true&locale=en&layout=compact" alt="saitejakalepu" /></p>
