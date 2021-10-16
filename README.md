@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/ursssbabu" target="blank"><img src="https://img.shields.io/twitter/follow/ursssbabu?logo=twitter&style=for-the-badge" alt="ursssbabu" /></a> </p>
 
 - 🔭 I’m currently working on **React JS**
+- 👨‍💻 All of my projects are available at [http://wsehyd-actestn/SCard_TRCorrection/](http://wsehyd-actestn/SCard_TRCorrection/)
 
 - 📫 How to reach me **saiteja.kalepu@gmail.com**
 
