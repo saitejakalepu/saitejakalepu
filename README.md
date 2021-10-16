@@ -41,6 +41,7 @@
 - **To Do List with Redux**
 - **Netflix Clone**
 - **Travel Website**
+- **Tic Tac Toe Game**
 - **Covid 19 Dashboard**
 - **Iphone Calculator**
 - **To Do List**
