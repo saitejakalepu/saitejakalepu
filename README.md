@@ -15,7 +15,6 @@
 - 💬 Ask me about **react and javascript**
 
 - 📫 How to reach me **saiteja.kalepu@gmail.com**
-- 
 
 ## 🛠️ Technologies and Tools I use:
 <p align="left"> 
@@ -43,7 +42,6 @@
 <p align="left">
 <a href="https://twitter.com/ursssbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ursssbabu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saitejakalepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saitejakalepu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14176044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14176044" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_teja_babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_teja_babu" height="30" width="40" /></a>
 </p>
 
@@ -60,10 +58,13 @@
 - <a href="https://github.com/saitejakalepu/Covid19-dashboard" >**Covid 19 Dashboard**</a>
 - <a href="https://github.com/saitejakalepu/Iphone-Calculator-React-App" >**Iphone Calculator**</a>
 - <a href="https://github.com/saitejakalepu/ToDoList-React-App" >**To Do List**</a>
-- 
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sai.teja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sai.teja" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejakalepu&show_icons=true&locale=en&layout=compact" alt="saitejakalepu" /></p>
+
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejakalepu&show_icons=true&locale=en" alt="saitejakalepu" /></p>
