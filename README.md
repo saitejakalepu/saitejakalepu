@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitejakalepu&label=Profile%20views&color=0e75b6&style=flat" alt="saitejakalepu" /> </p>
 
 ## 👨🏻‍💻 About Me:
+
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+
 - 🙋‍♂️ All about me is at **[My Website](https://saitejakalepu-portfolio.web.app/)**
 
 - 🔭 I’m currently working on **React JS**
