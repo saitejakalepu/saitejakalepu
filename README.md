@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **React JS**
 
-- 👨‍💻 All of my projects are available [here](https://saitejakalepu-portfolio.web.app/)
+- 👨‍💻 All of my projects are available **[here](https://saitejakalepu-portfolio.web.app/)**
 
 - 💬 Ask me about **react and javascript**
 
-- 📫 How to reach me **saiteja.kalepu@gmail.com**
+- 📫 reach me at **saiteja.kalepu@gmail.com**
 
 ## 🛠️ Technologies and Tools I use:
 <p align="left"> 
