@@ -59,12 +59,10 @@
 - <a href="https://github.com/saitejakalepu/Iphone-Calculator-React-App" >**Iphone Calculator**</a>
 - <a href="https://github.com/saitejakalepu/ToDoList-React-App" >**To Do List**</a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sai.teja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sai.teja" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejakalepu&show_icons=true&locale=en&layout=compact" alt="saitejakalepu" /></p>
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sai.teja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sai.teja" /></a></p><br><br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejakalepu&show_icons=true&locale=en" alt="saitejakalepu" /></p>
