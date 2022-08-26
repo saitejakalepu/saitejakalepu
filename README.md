@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences **[here](https://firebasestorage.googleapis.com/v0/b/saitejakalepu-portfolio.appspot.com/o/Resume.pdf?alt=media&token=25c95f21-235f-4fe4-8bc2-29b2ca79b746)**
 
+- ⚡ Fun fact **I am Foodie 😋**
+
 ## 🛠️ Technologies and Tools I use:
 <p align="left"> 
   
