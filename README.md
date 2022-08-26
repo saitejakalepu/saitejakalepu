@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **React JS**
 
-- 👨‍💻 All of my projects are available **[here](https://saitejakalepu-portfolio.web.app/)**
+- 👨‍💻 All of my projects are available **[here](https://saitejakalepu-portfolio.web.app/projects)**
 
 - 💬 Ask me about **react and javascript**
 
